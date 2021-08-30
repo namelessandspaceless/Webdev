@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: cadetblue;
+}
+.hobby{
+    color: chartreuse;
+}
+.country{
+    color: coral;
+}
