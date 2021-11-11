@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2{
+    color: blanchedalmond ;
+
+}
+
+.Collective{
+    color: rgb(223, 170, 170);
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(218, 213, 213);
+}
